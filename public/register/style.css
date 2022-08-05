@@ -1,0 +1,45 @@
+.bg-form {
+    background-color: rgb(201, 181, 177);
+    min-height: 100vh;
+}
+
+a:link {
+    text-decoration: none !important;
+}
+
+.form-area {
+    border-radius: 10px;
+}
+
+.invalid-pass #text-pass {
+    color: rgb(216, 60, 60);
+    font-size: 14px;
+}
+
+.valid-pass #text-pass {
+    color: rgb(31, 121, 31);
+    font-size: 14px;
+}
+
+.text h2, p {
+    color: black;
+}
+
+#togglePassword {
+    cursor: pointer;
+    padding-top: 10px;
+}
+
+.backButton {
+    width: 80%;
+}
+
+.bi-arrow-left-circle-fill {
+    width: 50%;
+    color: #724C21;
+}
+
+.bi-arrow-left-circle-fill:hover {
+    width: 55%;
+    color: red;
+}
